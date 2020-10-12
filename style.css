@@ -1,0 +1,25 @@
+img {
+    width: 100vw;
+    height: 70vh;
+}
+
+.darkBlue {
+    background-color: #016180;
+}
+
+.whiteText {
+    color: white;
+}
+
+.yellowText {
+    color: #FAD201;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid #000000;
+    border-radius: 78px;
+    font-size: em;
+}
